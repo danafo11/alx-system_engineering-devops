@@ -1,2 +1,3 @@
 #!/bin/bash
-KEY="Some other value"
+KEY=value KEY="Some other value" KEY=value1:value2
+
